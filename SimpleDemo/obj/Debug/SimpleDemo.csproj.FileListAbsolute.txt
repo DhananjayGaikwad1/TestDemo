@@ -5,3 +5,10 @@ C:\Users\Admin\source\repos\SimpleDemo\SimpleDemo\obj\Debug\SimpleDemo.csprojAss
 C:\Users\Admin\source\repos\SimpleDemo\SimpleDemo\obj\Debug\SimpleDemo.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\SimpleDemo\SimpleDemo\obj\Debug\SimpleDemo.exe
 C:\Users\Admin\source\repos\SimpleDemo\SimpleDemo\obj\Debug\SimpleDemo.pdb
+G:\GItLearningTest\A1\TestDemo\SimpleDemo\bin\Debug\SimpleDemo.exe.config
+G:\GItLearningTest\A1\TestDemo\SimpleDemo\bin\Debug\SimpleDemo.exe
+G:\GItLearningTest\A1\TestDemo\SimpleDemo\bin\Debug\SimpleDemo.pdb
+G:\GItLearningTest\A1\TestDemo\SimpleDemo\obj\Debug\SimpleDemo.csprojAssemblyReference.cache
+G:\GItLearningTest\A1\TestDemo\SimpleDemo\obj\Debug\SimpleDemo.csproj.CoreCompileInputs.cache
+G:\GItLearningTest\A1\TestDemo\SimpleDemo\obj\Debug\SimpleDemo.exe
+G:\GItLearningTest\A1\TestDemo\SimpleDemo\obj\Debug\SimpleDemo.pdb
